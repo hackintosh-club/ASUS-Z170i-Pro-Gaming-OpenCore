@@ -46,3 +46,4 @@
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/05.jpeg)
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/06.jpeg)
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/07.jpeg)
+![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/08.jpeg)
