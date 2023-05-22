@@ -50,3 +50,9 @@
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/06.jpeg)
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/07.jpeg)
 ![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/08.jpeg)
+
+### Contact Us
+
+ - QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)
