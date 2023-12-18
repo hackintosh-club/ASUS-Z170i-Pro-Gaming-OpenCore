@@ -67,6 +67,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <true/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -116,7 +118,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.5 | Lilu.kext</string>
+                    <string>V1.6.7 | Lilu.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -134,7 +136,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1</string>
+                    <string>V1.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -152,7 +154,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1 | SMCProcessor.kext</string>
+                    <string>V1.3.2 | SMCProcessor.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -170,7 +172,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1 | SMCSuperIO.kext</string>
+                    <string>V1.3.2 | SMCSuperIO.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -188,7 +190,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.4 | WhateverGreen.kext</string>
+                    <string>V1.6.6 | WhateverGreen.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -206,7 +208,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.2 | AppleALC.kext</string>
+                    <string>V1.8.8 | AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -242,7 +244,7 @@
                     <key>BundlePath</key>
                     <string>NVMeFix.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.0</string>
+                    <string>V1.1.1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -439,6 +441,8 @@
                 <false/>
                 <key>HideAuxiliary</key>
                 <true/>
+                <key>InstanceIdentifier</key>
+                <string></string>
                 <key>LauncherOption</key>
                 <string>Full</string>
                 <key>LauncherPath</key>
@@ -656,13 +660,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02929301CDKGQGFB</string>
+                <string>C02032300GUKGQGAD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>oJhUj8Wp</data>
+                <data>Lseazbnc</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -670,9 +674,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02Z3EY1JWDW</string>
+                <string>C02D6XZFJWDW</string>
                 <key>SystemUUID</key>
-                <string>B5242095-B9C6-4F9D-8182-FA16A38FC5A9</string>
+                <string>1BFE3F31-379C-4A71-924B-DF9B8AEB9775</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -764,7 +768,7 @@
                     <key>Arguments</key>
                     <string></string>
                     <key>Comment</key>
-                    <string>HfsPlus.efi</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>LoadEarly</key>
@@ -776,7 +780,7 @@
                     <key>Arguments</key>
                     <string></string>
                     <key>Comment</key>
-                    <string>OpenCanopy.efi</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>LoadEarly</key>
@@ -788,7 +792,7 @@
                     <key>Arguments</key>
                     <string></string>
                     <key>Comment</key>
-                    <string>OpenRuntime.efi</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>LoadEarly</key>
@@ -798,7 +802,7 @@
                 </dict>
                 <dict>
                     <key>Arguments</key>
-                    <string></string>
+                    <string>--preserve-boot</string>
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
@@ -947,6 +951,8 @@
                 <key>ResizeGpuBars</key>
                 <integer>-1</integer>
                 <key>ResizeUsePciRbIo</key>
+                <false/>
+                <key>ShimRetainProtocol</key>
                 <false/>
                 <key>TscSyncTimeout</key>
                 <integer>0</integer>
