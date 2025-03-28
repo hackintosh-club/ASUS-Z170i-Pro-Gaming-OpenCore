@@ -42,14 +42,14 @@
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
 
 ### ScreenShot 
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/01.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/02.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/03.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/04.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/05.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/06.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/07.jpeg)
-![image](https://github.com/hackintosh-efi/ASUS-Z170i-Pro-Gaming-OpenCore/blob/main/ScreenShot/08.jpeg)
+![image](ScreenShot/01.jpeg)
+![image](ScreenShot/02.jpeg)
+![image](ScreenShot/03.jpeg)
+![image](ScreenShot/04.jpeg)
+![image](ScreenShot/05.jpeg)
+![image](ScreenShot/06.jpeg)
+![image](ScreenShot/07.jpeg)
+![image](ScreenShot/08.jpeg)
 
 ### Contact Us
 
